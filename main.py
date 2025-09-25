@@ -25,7 +25,7 @@ HTML_TEMPLATE = """
             padding: 20px;
         }
         .container {
-            background: white;
+            background: Red;
             border-radius: 20px;
             padding: 40px;
             max-width: 600px;
@@ -43,7 +43,7 @@ HTML_TEMPLATE = """
         }
         label {
             display: block;
-            margin-bottom: 8px;
+            margin-bottom: 28px;
             font-weight: bold;
             color: #555;
         }
@@ -56,7 +56,7 @@ HTML_TEMPLATE = """
             background: white;
         }
         select:focus {
-            outline: none;
+            outline:  none;
             border-color: #667eea;
         }
         .btn-container {
